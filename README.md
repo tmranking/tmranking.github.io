@@ -1,0 +1,112 @@
+# TM2020 Top 100 Ranking
+
+This list will not be updated anymore because <https://trackmania.io/#/matchmaking> is out and is much better  
+
+Update time: 2021-02-20 21:04 UTC  
+
+Total number of players in mm: `41602`  
+
+rip <https://msistemich.com/mm_ladder.html>  
+
+|    | Points | Name |
+| --- | --- | --- |
+| 1 | 4535 | Gwen_TM |
+| 2 | 4535 | Scrapie98 |
+| 3 | 4360 | NeqzoTM |
+| 4 | 4270 | CarlJr. |
+| 5 | 4260 | Erizel |
+| 6 | 4260 | JajaTM |
+| 7 | 4200 | kebytm |
+| 8 | 4145 | OTW.GlastBoy |
+| 9 | 4115 | Dog.. |
+| 10 | 4055 | MelKaaqiS |
+| 11 | 4050 | EvonTM |
+| 12 | 4025 | OneX.Vulnerra |
+| 13 | 3925 | raizo_O |
+| 14 | 3925 | KC.DarkeR |
+| 15 | 3905 | WirtualTM |
+| 16 | 3885 | Larstm |
+| 17 | 3885 | Insanity.TM |
+| 18 | 3850 | IZI.Binkss |
+| 19 | 3845 | OTW.Dark |
+| 20 | 3845 | Paandaa27 |
+| 21 | 3810 | tsun.Loupphok |
+| 22 | 3790 | Rin.Coeur |
+| 23 | 3780 | NeodymTM |
+| 24 | 3760 | LunaticLumar |
+| 25 | 3740 | Amaterasu-TM |
+| 26 | 3725 | GuzuConTilde |
+| 27 | 3700 | DexteR.771 |
+| 28 | 3695 | riolu-tm |
+| 29 | 3670 | Nath_TM |
+| 30 | 3660 | tsun.Jean-Rene |
+| 31 | 3655 | dacSP.Tekky |
+| 32 | 3655 | Bren.KC |
+| 33 | 3615 | MTP.hugo220 |
+| 34 | 3615 | OTW.Snow |
+| 35 | 3615 | Anti.TM |
+| 36 | 3610 | Tona. |
+| 37 | 3595 | OTW.Tjalic |
+| 38 | 3595 | Thomas_Jean |
+| 39 | 3595 | PCS.Roquete |
+| 40 | 3590 | TanKRom_ |
+| 41 | 3570 | tsun.Avion |
+| 42 | 3565 | Nodd_ |
+| 43 | 3550 | Ice-TM |
+| 44 | 3545 | shieldbandit |
+| 45 | 3535 | tm7ven |
+| 46 | 3525 | beGenius.NRGZ |
+| 47 | 3520 | mtat_tm |
+| 48 | 3515 | Grizi.link |
+| 49 | 3500 | BarbosTM |
+| 50 | 3500 | Purge.Radiance |
+| 51 | 3495 | SkandeaR |
+| 52 | 3490 | PCS.IXAWAI |
+| 53 | 3475 | Purge.Toruss |
+| 54 | 3475 | tsun.BARK |
+| 55 | 3470 | Switch999 |
+| 56 | 3465 | Zahrokz |
+| 57 | 3460 | Versa.BRand0M |
+| 58 | 3455 | MimoJr |
+| 59 | 3455 | Betatoast2 |
+| 60 | 3450 | WosileTM |
+| 61 | 3435 | Dividedz |
+| 62 | 3430 | SapiTM |
+| 63 | 3410 | B1tsy |
+| 64 | 3400 | Jaktorrr |
+| 65 | 3385 | beGenius.cLM_ |
+| 66 | 3370 | Canity.Broly |
+| 67 | 3370 | ShaDenis_ |
+| 68 | 3365 | MASSAA. |
+| 69 | 3355 | Chibbo_ |
+| 70 | 3350 | Kariboj |
+| 71 | 3345 | IZI.Cocow_ |
+| 72 | 3340 | Mr_Anige |
+| 73 | 3330 | Spammiej |
+| 74 | 3315 | Lamartifice |
+| 75 | 3310 | sh0rty.de |
+| 76 | 3305 | JurixTM |
+| 77 | 3305 | patouflax |
+| 78 | 3305 | AurelTM. |
+| 79 | 3290 | Donraii |
+| 80 | 3290 | Kaslacroute |
+| 81 | 3285 | eLconn21 |
+| 82 | 3275 | PCS.Holo099 |
+| 83 | 3270 | Cato... |
+| 84 | 3270 | PCS.Shpluk |
+| 85 | 3265 | Hand__ |
+| 86 | 3260 | LookidTM |
+| 87 | 3250 | Klauxe |
+| 88 | 3235 | minus-82pts |
+| 89 | 3230 | Wavy.Aynyx |
+| 90 | 3225 | Joooooooooey |
+| 91 | 3225 | h00lunDer |
+| 92 | 3220 | MDVL.SRK |
+| 93 | 3215 | NuPrime_TM |
+| 94 | 3215 | MappyTV |
+| 95 | 3200 | KobyXIII |
+| 96 | 3185 | Eden_Guesh |
+| 97 | 3180 | Kainry. |
+| 98 | 3180 | ATX.Acide |
+| 99 | 3175 | SashaAyako |
+| 100 | 3170 | FrevTM |
